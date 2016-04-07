@@ -22,7 +22,7 @@
   <button class="large allert button">Order now</button>
   </body>
 
-  <footer class="row">
+    <footer class="row">
     <section class="small-12 medum-4 columns">
      Copyright 2016
     </section>
